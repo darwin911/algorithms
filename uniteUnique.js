@@ -1,5 +1,9 @@
-// Sorted Union
-// Joins unique elements of given arrays
+/* 
+  Sorted Union
+  ============
+  Joins unique elements of given arrays
+  =====================================
+*/
 
 function uniteUnique(arr) {
   let result = [];
